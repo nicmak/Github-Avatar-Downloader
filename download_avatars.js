@@ -1,7 +1,7 @@
 const dotEnv = require('dotenv')
 dotEnv.config();
-const username = process.env.USER
-const password = process.env.TOKEN
+const username = process.env.USER;
+const password = process.env.TOKEN;
 
 
 
